@@ -29,5 +29,3 @@ Este análisis busca explorar los factores que influyen en el desempeño comerci
 - **Archivo esperado:** `data/vgsales.csv`  
 - **Variables clave:** `Platform`, `Genre`, `Publisher`, `Year_of_Release`, `NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`, `Rating`.  
 
-## Estructura de carpetas propuesta  
-
